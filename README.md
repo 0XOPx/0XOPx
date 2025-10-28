@@ -5,6 +5,7 @@
 - Im Making WINDOWS Apps & Android APPS
 - Im Programming!
 - REAL!!! CLICK ON MY REPOSENTORIES & PROJECTS (by i maybe make a project idk)
+  Bartosz Music [Here](https://bandlab.com/bartekk23) & [Here](https://soundcloud.com/bartekk23)
 
 <!---
 Bartosz8291/Bartosz8291 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
