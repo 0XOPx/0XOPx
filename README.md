@@ -3,8 +3,8 @@
 
 - [OXOP-Inc](https://github.com/OXOP-Inc)
 - [OXOPBlackMIDI](https://github.com/OXOPBlackMIDI)
-- 💻 [OXOPSoftware](https://github.com/OXOPSoftware)
-- 🚀 [VeryGoodSoftware](https://github.com/VeryGoodSoftware)
+- [OXOPSoftware](https://github.com/OXOPSoftware)
+- [VeryGoodSoftware](https://github.com/VeryGoodSoftware)
 
 <!---
 Bartosz8291/Bartosz8291 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
