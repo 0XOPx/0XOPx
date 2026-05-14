@@ -6,6 +6,8 @@ Pronounciation: (in polish) OKSOP
 
 Country: Poland! 🇵🇱
 
+I'm a Scorpio :D
+
 # GitHub Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=0XOPx&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=0XOPx&theme=radical)
